@@ -11,4 +11,3 @@ $student = new Student(
 );
 
 echo $student->age();
-
